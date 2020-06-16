@@ -1,0 +1,27 @@
+body{
+    background-image: url("../images/ngc-brain-games7.jpg");
+    background-position: center;
+    text-align: center;       
+}
+div{
+    margin-top:250px;
+}
+h2{
+    color: midnightblue;
+    font-family: verdana;
+    text-shadow:0 0 10px cyan;
+}
+input[type="text"]{
+    padding:5px;
+    width:350px;
+    border-radius: 10px;
+    font-size: 24px;
+}
+input[type="submit"],input[type="button"]{
+    background-color: green;
+    padding: 5px;
+    border-radius: 5px;
+    color:white;
+    cursor: pointer;
+}
+ 
